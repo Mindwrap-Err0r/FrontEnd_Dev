@@ -1,2 +1,2 @@
 # FrontEnd_Dev
-Git and GitHub Class
+Git & GitHub Class.
